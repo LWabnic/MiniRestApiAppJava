@@ -1,0 +1,7 @@
+# Ignore .idea directory
+MiniRestApiServer/.idea/
+MiniRestAppClient/.idea/
+
+# Ignore target directory
+MiniRestApiServer/target/
+MiniRestAppClient/target/
